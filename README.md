@@ -31,6 +31,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0290-word-pattern](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0290-word-pattern) |
 ## Trie
 |  |
 | ------- |
@@ -44,4 +45,8 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0035-search-insert-position) |
+## Hash Table
+|  |
+| ------- |
+| [0290-word-pattern](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0290-word-pattern) |
 <!---LeetCode Topics End-->
