@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0007-reverse-integer) |
+| [0633-sum-of-square-numbers](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0877-stone-game](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0877-stone-game) |
 ## Array
 |  |
@@ -57,6 +58,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0633-sum-of-square-numbers](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
@@ -64,6 +66,7 @@
 | [0035-search-insert-position](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0633-sum-of-square-numbers](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0633-sum-of-square-numbers) |
 ## Hash Table
 |  |
 | ------- |
