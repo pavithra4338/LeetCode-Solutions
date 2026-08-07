@@ -20,6 +20,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
 | [0877-stone-game](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0877-stone-game) |
+| [0977-squares-of-a-sorted-array](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [2032-two-out-of-three](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/2032-two-out-of-three) |
 | [3731-find-missing-elements](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
@@ -36,6 +37,7 @@
 | [0347-top-k-frequent-elements](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
+| [0977-squares-of-a-sorted-array](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [3731-find-missing-elements](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## String
 |  |
@@ -55,6 +57,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0977-squares-of-a-sorted-array](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
