@@ -37,6 +37,7 @@
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [3731-find-missing-elements](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
@@ -46,6 +47,7 @@
 | [0014-longest-common-prefix](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0205-isomorphic-strings](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0290-word-pattern) |
+| [0389-find-the-difference](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 ## Trie
 |  |
 | ------- |
@@ -75,11 +77,13 @@
 | [0290-word-pattern](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [2032-two-out-of-three](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/2032-two-out-of-three) |
 | [3731-find-missing-elements](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [2032-two-out-of-three](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/2032-two-out-of-three) |
 ## Union-Find
 |  |
