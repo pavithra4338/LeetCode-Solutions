@@ -7,11 +7,8 @@ class Solution(object):
         freq={}
         for i in nums:
             if i in freq:
-                freq[i]+=1
+                return i
             else:
                 freq[i]=1
-        n=len(nums)//2
-        for i in freq:
-            if freq[i] == n:
-                return i
+        return
         
