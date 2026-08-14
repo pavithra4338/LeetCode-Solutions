@@ -16,6 +16,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0035-search-insert-position) |
+| [0075-sort-colors](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0137-single-number-ii](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0137-single-number-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -45,6 +46,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0347-top-k-frequent-elements](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0389-find-the-difference) |
@@ -74,6 +76,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -156,4 +159,12 @@
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
