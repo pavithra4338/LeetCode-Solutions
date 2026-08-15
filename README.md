@@ -38,6 +38,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0338-counting-bits) |
 | [0877-stone-game](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
@@ -110,6 +111,7 @@
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0137-single-number-ii) |
+| [0338-counting-bits](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
