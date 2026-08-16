@@ -7,6 +7,7 @@
 | [0007-reverse-integer](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0007-reverse-integer) |
 | [0070-climbing-stairs](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0633-sum-of-square-numbers](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0633-sum-of-square-numbers) |
+| [0728-self-dividing-numbers](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0728-self-dividing-numbers) |
 | [0877-stone-game](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
