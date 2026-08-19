@@ -40,6 +40,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/1470-shuffle-the-array) |
+| [1480-running-sum-of-1d-array](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2032-two-out-of-three](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/2032-two-out-of-three) |
@@ -215,4 +216,8 @@
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
