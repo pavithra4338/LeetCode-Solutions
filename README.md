@@ -30,6 +30,7 @@
 | [0414-third-maximum-number](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
 | [0645-set-mismatch](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0877-stone-game](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0877-stone-game) |
+| [0896-monotonic-array](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
