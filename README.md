@@ -44,6 +44,7 @@
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1534-count-good-triplets](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/1534-count-good-triplets) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1672-richest-customer-wealth](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -247,4 +248,8 @@
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
+## Enumeration
+|  |
+| ------- |
+| [1534-count-good-triplets](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/1534-count-good-triplets) |
 <!---LeetCode Topics End-->
