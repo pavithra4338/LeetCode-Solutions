@@ -28,6 +28,7 @@
 | [0283-move-zeroes](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
 | [0645-set-mismatch](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
@@ -74,6 +75,7 @@
 | [0075-sort-colors](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0347-top-k-frequent-elements](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
 | [0645-set-mismatch](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0645-set-mismatch) |
@@ -117,6 +119,7 @@
 | [0283-move-zeroes](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0633-sum-of-square-numbers](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0905-sort-array-by-parity](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -127,6 +130,7 @@
 | [0035-search-insert-position](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0633-sum-of-square-numbers](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Hash Table
@@ -137,6 +141,7 @@
 | [0290-word-pattern](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
