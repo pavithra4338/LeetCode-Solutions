@@ -45,6 +45,7 @@
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/1470-shuffle-the-array) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1534-count-good-triplets](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/1534-count-good-triplets) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -266,4 +267,12 @@
 |  |
 | ------- |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
+## Stack
+|  |
+| ------- |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
