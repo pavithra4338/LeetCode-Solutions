@@ -15,6 +15,7 @@
 | [2364-count-number-of-bad-pairs](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/2364-count-number-of-bad-pairs) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3875-construct-uniform-parity-array-i](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Array
 |  |
 | ------- |
@@ -64,6 +65,7 @@
 | [3471-find-the-largest-almost-missing-integer](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
+| [3875-construct-uniform-parity-array-i](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Dynamic Programming
 |  |
 | ------- |
