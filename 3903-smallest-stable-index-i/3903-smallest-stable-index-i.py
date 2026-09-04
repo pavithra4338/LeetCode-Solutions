@@ -6,14 +6,8 @@ class Solution(object):
         :rtype: int
         """
         for i in range(len(nums)):
-            maxi=nums[0]
-            mini=nums[i]
-            for j in nums[:i+1]:
-                if j > maxi:
-                    maxi=j
-            for j in nums[i:]:
-                if j < mini:
-                    mini=j
+            maxi=max(nums[:i+1])
+            mini=min(nums[i:])
             if maxi-mini<=k:
                 return i
         return -1
