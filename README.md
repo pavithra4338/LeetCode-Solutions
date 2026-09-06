@@ -114,6 +114,7 @@
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1408-string-matching-in-an-array](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/1408-string-matching-in-an-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -165,6 +166,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2032-two-out-of-three](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/2032-two-out-of-three) |
 | [2364-count-number-of-bad-pairs](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/2364-count-number-of-bad-pairs) |
 | [2784-check-if-array-is-good](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/2784-check-if-array-is-good) |
@@ -210,6 +212,7 @@
 | [0884-uncommon-words-from-two-sentences](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2364-count-number-of-bad-pairs](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/2364-count-number-of-bad-pairs) |
 ## Quickselect
 |  |
@@ -235,6 +238,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
