@@ -13,6 +13,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [2235-add-two-integers](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/2235-add-two-integers) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2364-count-number-of-bad-pairs](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/2364-count-number-of-bad-pairs) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
