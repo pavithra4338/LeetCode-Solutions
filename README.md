@@ -116,6 +116,7 @@
 | [1684-count-the-number-of-consistent-strings](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/2269-find-the-k-beauty-of-a-number) |
+| [3019-number-of-changing-keys](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/3019-number-of-changing-keys) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Trie
