@@ -123,6 +123,7 @@
 | [3019-number-of-changing-keys](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/3019-number-of-changing-keys) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3110-score-of-a-string](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/3110-score-of-a-string) |
 ## Trie
 |  |
 | ------- |
