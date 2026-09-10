@@ -6,6 +6,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0007-reverse-integer) |
 | [0070-climbing-stairs](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0633-sum-of-square-numbers](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0728-self-dividing-numbers](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0728-self-dividing-numbers) |
 | [0877-stone-game](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0877-stone-game) |
@@ -190,6 +191,7 @@
 | [0136-single-number](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0645-set-mismatch) |
@@ -306,4 +308,8 @@
 |  |
 | ------- |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
