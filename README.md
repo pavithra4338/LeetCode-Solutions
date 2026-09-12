@@ -99,6 +99,7 @@
 | [0414-third-maximum-number](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
 | [0645-set-mismatch](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
+| [0791-custom-sort-string](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0791-custom-sort-string) |
 | [0905-sort-array-by-parity](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1200-minimum-absolute-difference](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/1200-minimum-absolute-difference) |
@@ -117,6 +118,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0692-top-k-frequent-words](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
+| [0791-custom-sort-string](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0791-custom-sort-string) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1408-string-matching-in-an-array](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/1408-string-matching-in-an-array) |
@@ -169,6 +171,7 @@
 | [0389-find-the-difference](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
+| [0791-custom-sort-string](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0791-custom-sort-string) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
