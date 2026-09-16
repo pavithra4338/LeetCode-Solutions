@@ -66,6 +66,7 @@
 | [1672-richest-customer-wealth](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1920-build-array-from-permutation](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2032-two-out-of-three](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/2032-two-out-of-three) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2364-count-number-of-bad-pairs](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/2364-count-number-of-bad-pairs) |
@@ -289,6 +290,7 @@
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Matrix
 |  |
