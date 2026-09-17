@@ -35,6 +35,7 @@
 | [0136-single-number](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0137-single-number-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0219-contains-duplicate-ii](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -166,6 +167,7 @@
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0205-isomorphic-strings](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
+| [0219-contains-duplicate-ii](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -256,6 +258,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
