@@ -68,6 +68,7 @@
 | [1636-sort-array-by-increasing-frequency](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1672-richest-customer-wealth](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1920-build-array-from-permutation](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2032-two-out-of-three](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/2032-two-out-of-three) |
@@ -113,6 +114,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2784-check-if-array-is-good](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/2784-check-if-array-is-good) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
@@ -279,6 +281,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0075-sort-colors) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 ## Bubble Sort
 |  |
 | ------- |
