@@ -10,6 +10,7 @@
 | [0633-sum-of-square-numbers](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0728-self-dividing-numbers](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0728-self-dividing-numbers) |
 | [0877-stone-game](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0877-stone-game) |
+| [0989-add-to-array-form-of-integer](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0989-add-to-array-form-of-integer) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -50,6 +51,7 @@
 | [0905-sort-array-by-parity](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [0989-add-to-array-form-of-integer](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0989-add-to-array-form-of-integer) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1200-minimum-absolute-difference](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/1200-minimum-absolute-difference) |
 | [1207-unique-number-of-occurrences](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/1207-unique-number-of-occurrences) |
