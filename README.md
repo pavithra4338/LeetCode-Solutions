@@ -44,6 +44,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0561-array-partition) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [0877-stone-game](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0877-stone-game) |
@@ -136,6 +137,7 @@
 | [0344-reverse-string](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0389-find-the-difference) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0692-top-k-frequent-words](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [0791-custom-sort-string](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0791-custom-sort-string) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0884-uncommon-words-from-two-sentences) |
@@ -195,6 +197,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0389-find-the-difference) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [0791-custom-sort-string](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0791-custom-sort-string) |
