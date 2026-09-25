@@ -82,6 +82,7 @@
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2364-count-number-of-bad-pairs](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/2364-count-number-of-bad-pairs) |
+| [2418-sort-the-people](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/2418-sort-the-people) |
 | [2574-left-and-right-sum-differences](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2784-check-if-array-is-good](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/2784-check-if-array-is-good) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -126,6 +127,7 @@
 | [1636-sort-array-by-increasing-frequency](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2418-sort-the-people](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/2418-sort-the-people) |
 | [2784-check-if-array-is-good](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/2784-check-if-array-is-good) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
@@ -150,6 +152,7 @@
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/2269-find-the-k-beauty-of-a-number) |
+| [2418-sort-the-people](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/2418-sort-the-people) |
 | [3019-number-of-changing-keys](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/3019-number-of-changing-keys) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -214,6 +217,7 @@
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2032-two-out-of-three](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/2032-two-out-of-three) |
 | [2364-count-number-of-bad-pairs](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/2364-count-number-of-bad-pairs) |
+| [2418-sort-the-people](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/2418-sort-the-people) |
 | [2784-check-if-array-is-good](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/2784-check-if-array-is-good) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
