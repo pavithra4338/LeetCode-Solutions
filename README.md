@@ -130,6 +130,7 @@
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2418-sort-the-people](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/2418-sort-the-people) |
 | [2784-check-if-array-is-good](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/2784-check-if-array-is-good) |
+| [2785-sort-vowels-in-a-string](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/2785-sort-vowels-in-a-string) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## String
@@ -157,6 +158,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2418-sort-the-people](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/2418-sort-the-people) |
+| [2785-sort-vowels-in-a-string](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/2785-sort-vowels-in-a-string) |
 | [3019-number-of-changing-keys](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/3019-number-of-changing-keys) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
