@@ -34,6 +34,7 @@
 | [0027-remove-element](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0075-sort-colors) |
+| [0118-pascals-triangle](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0137-single-number-ii) |
@@ -101,6 +102,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0338-counting-bits](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0338-counting-bits) |
 | [0877-stone-game](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0877-stone-game) |
 ## Game Theory
