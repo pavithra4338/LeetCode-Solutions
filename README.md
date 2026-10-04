@@ -108,6 +108,7 @@
 | [0070-climbing-stairs](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0338-counting-bits](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0338-counting-bits) |
+| [0678-valid-parenthesis-string](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
@@ -156,6 +157,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0678-valid-parenthesis-string](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0692-top-k-frequent-words](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [0791-custom-sort-string](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0791-custom-sort-string) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0884-uncommon-words-from-two-sentences) |
@@ -374,6 +376,7 @@
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0561-array-partition) |
+| [0678-valid-parenthesis-string](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -382,6 +385,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -398,6 +402,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Boyer–Moore Majority Vote Algorithm
