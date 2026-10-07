@@ -25,6 +25,7 @@
 | [3870-count-commas-in-range](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
+| [3996-even-number-of-knight-moves](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/3996-even-number-of-knight-moves) |
 ## Array
 |  |
 | ------- |
@@ -101,6 +102,7 @@
 | [3731-find-missing-elements](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/3903-smallest-stable-index-i) |
+| [3996-even-number-of-knight-moves](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/3996-even-number-of-knight-moves) |
 ## Dynamic Programming
 |  |
 | ------- |
