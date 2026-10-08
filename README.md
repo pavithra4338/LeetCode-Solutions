@@ -172,6 +172,7 @@
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/2269-find-the-k-beauty-of-a-number) |
@@ -244,6 +245,7 @@
 | [1636-sort-array-by-increasing-frequency](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2032-two-out-of-three](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/2032-two-out-of-three) |
 | [2364-count-number-of-bad-pairs](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/2364-count-number-of-bad-pairs) |
