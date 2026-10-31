@@ -53,6 +53,7 @@
 | [0414-third-maximum-number](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0561-array-partition) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0605-can-place-flowers](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0605-can-place-flowers) |
 | [0645-set-mismatch](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [0877-stone-game](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0877-stone-game) |
@@ -389,6 +390,7 @@
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0561-array-partition) |
+| [0605-can-place-flowers](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0605-can-place-flowers) |
 | [0678-valid-parenthesis-string](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/pavithra4338/LeetCode-Solutions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
