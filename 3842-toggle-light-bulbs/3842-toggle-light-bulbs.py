@@ -6,6 +6,8 @@ class Solution(object):
         """
         l=[]
         for bulb in bulbs:
-            if bulbs.count(bulb)%2!=0 and bulb not in l:
+            if bulb in l:
+                l.remove(bulb)
+            else:
                 l.append(bulb)
         return sorted(l)
